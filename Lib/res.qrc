@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="gifs">
+    <file>resources/abstract.jpg</file>
+    <file>resources/exit - text.png</file>
+    <file>resources/abstract11.jpg.png</file>
+    <file>resources/core1.gif</file>
+    <file>resources/exit - Copy.png</file>
+  </qresource>
+</RCC>
